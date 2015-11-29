@@ -1,0 +1,15 @@
+@font-face {
+    font-family: Qontra;
+    src: url(./Qontra.otf);
+}
+
+#text{
+  width: 500px;
+  height: 300px;
+  margin: auto;
+  text-align: center;
+  margin-top: 5%;
+  font-family: Qontra,Arial;
+  font-size: 23pt;
+  text-transform: uppercase;
+}
