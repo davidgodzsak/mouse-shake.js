@@ -26,7 +26,7 @@ $(document).on("mouseshake", function(e) {
 });
 ```
 
-##Fireing the event
+##Firing the event
 
 When the user shakes their mouse, the script will detect it. It sums the direction changes under a certain time. When it exceeds the limit, the event is fired. 
 
